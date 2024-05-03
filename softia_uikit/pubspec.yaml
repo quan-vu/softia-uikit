@@ -1,7 +1,7 @@
 name: softia_uikit
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://www.example.com
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  material: ^1.0.0+2
 
 dev_dependencies:
   flutter_test:
